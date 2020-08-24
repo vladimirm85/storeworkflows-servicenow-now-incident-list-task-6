@@ -1,0 +1,14 @@
+{
+	"components": {
+	    "x-527515-incident-list-task-6": {
+			"uiBuilder": {
+				"associatedTypes": ["global.core"],
+				"label": "My test task for StoreWorkflows",
+				"icon": "address-card-outline",
+				"description": "Incident list"
+			  },
+	        "innerComponents": []
+	    }
+	},
+	"scopeName": "x_527515_test_in_2"
+}
